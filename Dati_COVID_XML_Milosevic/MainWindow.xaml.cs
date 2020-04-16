@@ -24,5 +24,10 @@ namespace Dati_COVID_XML_Milosevic
         {
             InitializeComponent();
         }
+
+        private void Btn_LoadInfo_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
