@@ -13,7 +13,7 @@
                 <GradientStop Color="Red" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <ListBox x:Name="Lst_Info" HorizontalAlignment="Left" Height="300" Margin="35,60,0,0" VerticalAlignment="Top" Width="500"/>
+        <ListBox x:Name="Lst_Informazioni" HorizontalAlignment="Left" Height="300" Margin="35,60,0,0" VerticalAlignment="Top" Width="500"/>
         <Label Content="COVID-19 data" HorizontalAlignment="Left" Margin="35,30,0,0" VerticalAlignment="Top" Height="30" Width="115" FontSize="15" Foreground="White"/>
         <Button x:Name="Btn_LoadInfo" Content="Load Info" HorizontalAlignment="Left" Margin="35,370,0,0" VerticalAlignment="Top" Width="120" Height="30" FontSize="15" Click="Btn_LoadInfo_Click"/>
 

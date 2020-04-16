@@ -23,5 +23,7 @@ namespace Dati_COVID_XML_Milosevic
         public int tamponi { get; set; }
         public string note_it { get; set; }
         public string note_en { get; set; }
+
+
     }
 }
